@@ -1,6 +1,6 @@
 # Developer Community
 
-* [Structured Journalism Developer Community](https://github.dxc.com/AppliedAICoEGarages/structured-journalism-developer-community)
+## [Structured Journalism Developer Community](https://github.dxc.com/AppliedAICoEGarages/structured-journalism-developer-community)
 
 Developer Community is managed by
 * Punit Sihag
@@ -8,7 +8,7 @@ Developer Community is managed by
 * Raviraajan Ravichandar
 
 
-* [Structured Journalism Article Production](https://github.dxc.com/AppliedAICoEGarages/structured-journalism-article-production)
+## [Structured Journalism Article Production](https://github.dxc.com/AppliedAICoEGarages/structured-journalism-article-production)
 
 Article Production team is managed by
 
@@ -18,7 +18,7 @@ Article Production team is managed by
 * Martin
 * Ankita
 
-* [Structured Journalism Automation](https://github.dxc.com/AppliedAICoEGarages/structured-journalism-automation)
+## [Structured Journalism Automation](https://github.dxc.com/AppliedAICoEGarages/structured-journalism-automation)
 
 Journalism Automation team is managed by
 
@@ -27,7 +27,7 @@ Journalism Automation team is managed by
 * Divya
 * Rameshwar
 
-* [Structured Journalism Content Templates](https://github.dxc.com/AppliedAICoEGarages/structured-journalism-content-templates)
+## [Structured Journalism Content Templates](https://github.dxc.com/AppliedAICoEGarages/structured-journalism-content-templates)
 
 This Content templates team is managed by 
 * Jerry Overton
