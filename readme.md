@@ -12,8 +12,8 @@ Developer Community is managed by
 
 Article Production team is managed by
 
-* **Likhil**
-* **Jessica**
+* **Likhil Rachuri**
+* **Jessica Damasco**
 * **Talmeez**
 * **Martin**
 * **Ankita**
@@ -22,7 +22,7 @@ Article Production team is managed by
 
 Journalism Automation team is managed by
 
-* **Awanish**
+* **Awanish Tiwari**
 * **Rohit**
 * **Divya**
 * **Rameshwar**
