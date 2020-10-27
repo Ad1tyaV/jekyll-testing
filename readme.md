@@ -1,4 +1,4 @@
-## Developer Community
+# Developer Community
 
 * [Structured Journalism Developer Community](https://github.dxc.com/AppliedAICoEGarages/structured-journalism-developer-community)
 * [Structured Journalism Article Production](https://github.dxc.com/AppliedAICoEGarages/structured-journalism-article-production)
