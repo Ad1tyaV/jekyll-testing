@@ -3,7 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+
 ---
+
+![](https://assets1.dxc.technology/newsroom/images/dxc_logo_vt_wht_300.png){:height="30%" width="30%"}
 
 ### [Structured Journalism Developer Community](https://github.dxc.com/AppliedAICoEGarages/structured-journalism-developer-community)
 
