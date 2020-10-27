@@ -34,7 +34,8 @@ github_username:  structured-journalism-developer-community
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-yat
+#theme: jekyll-theme-yat
+remote-theme: jekyll-theme-yat
 plugins:
   - jekyll-feed
 # Exclude from processing.
